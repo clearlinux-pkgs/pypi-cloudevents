@@ -1,5 +1,5 @@
 PKG_NAME := pypi-cloudevents
-URL = https://files.pythonhosted.org/packages/35/51/e4beea7af2e9a6f50b2a13e57444aa879d5366fb177b9d7bcf613de29696/cloudevents-1.9.0.tar.gz
+URL = https://files.pythonhosted.org/packages/a6/aa/a080772d54a268a1efdbbab619c534a8367ba28e5f8e3885b7c6eb66ad5e/cloudevents-1.10.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
