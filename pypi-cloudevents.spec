@@ -7,7 +7,7 @@
 #
 Name     : pypi-cloudevents
 Version  : 1.11.0
-Release  : 7
+Release  : 8
 URL      : https://files.pythonhosted.org/packages/93/41/97a7448adf5888d394a22d491749fb55b1e06e95870bd9edc3d58889bb8a/cloudevents-1.11.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/93/41/97a7448adf5888d394a22d491749fb55b1e06e95870bd9edc3d58889bb8a/cloudevents-1.11.0.tar.gz
 Summary  : CloudEvents Python SDK
